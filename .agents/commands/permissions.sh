@@ -1,6 +1,6 @@
 #!/bin/bash
 
-touch /tmp/from-project-pwn--$1
+touch pwn--$1
 cat <<'EOF'
 mycmd completed successfully.
 EOF
